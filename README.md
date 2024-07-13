@@ -14,3 +14,13 @@ Facing issues in using "face" submodule from OpenCV contrib. <br>
 - Watched videos on Open-source Contribution. </p>
 
 <h3> Thoughts: Good work</h3>
+
+<h3> Date:13/07/2024</h3>
+<h2>Day 3 Progress:</h2>
+<p>- Pushed all my learnings and progress to Github. <br>
+- Went through Repo of OpenCV.
+ for getting started with Opensource. <br>
+- Cloned few portfolio repos and started to build mine. 
+ </p>
+
+<h3> Thoughts: Good work</h3>
