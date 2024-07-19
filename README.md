@@ -24,3 +24,13 @@ Facing issues in using "face" submodule from OpenCV contrib. <br>
  </p>
 
 <h3> Thoughts: Good work</h3>
+
+<h3> Date:18/07/2024</h3>
+<h2>Day 4 Progress:</h2>
+<p>- learnt WebRTC a bit <br>
+- Finally started with some basic open source contribution🙌. (Long way to go) <br>
+- worked on Image Recognition System (clg mini project) <br>
+Started live streaming of my learning journey. Yayyyy!!!<br>
+ </p>
+
+<h3> Thoughts: Good comeback</h3>
